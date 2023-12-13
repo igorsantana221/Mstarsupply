@@ -39,6 +39,7 @@
 
 
 ### Instale as bibliotecas:
+>Acesse mstarsupply/frontend
 
 	npm install 
 
