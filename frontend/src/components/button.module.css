@@ -1,0 +1,17 @@
+.button {
+    padding: 6px 20px;
+    border: none;
+    border-radius: 25px 0px;
+    background: #d7f057;
+    font-weight: bold;
+    font-size: 2rem;
+    cursor: pointer;
+    margin-bottom: 15px;
+  }
+  
+  .button:hover {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    transition: 0.4s;
+  }
+  
