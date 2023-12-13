@@ -1,4 +1,6 @@
 
+### Obs: Utilizar powershel para realizar o procedimento. 
+
 ### *** Executando Back-end 
 
 ### Criar Ambiente virtual
