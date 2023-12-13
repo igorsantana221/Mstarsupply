@@ -27,7 +27,7 @@
   
 ### Instale as bibliotecas:
 
-	pip install -r requirements.txt
+	pip install flask, flask_sqlalchemy, flask_marshmallow, flask_cors
 
 ### Iniciando Aplicação (Backend)
 >Acesse mstarsupply/backend
