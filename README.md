@@ -25,7 +25,7 @@
   
 ### Instale as bibliotecas:
 
-pip install -r requirements. txt
+	pip install -r requirements. txt
 
 ### Iniciando Aplicação (Backend)
 >Acesse mstarsupply/backend
@@ -42,6 +42,6 @@ pip install -r requirements. txt
 
 ### Iniciando Aplicação (Frontend)
 
->Acesse mstarsupply/frontend
+#Acesse mstarsupply/frontend
 
 	npm start 
