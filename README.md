@@ -1,6 +1,4 @@
 
-Site Feito para Portifolio, programa com funcionalidades de nutricionistas, feito para atendimento a pacientes e gestão de trabalho. 
-
 ### *** Executando Back-end 
 
 ### Criar Ambiente virtual
@@ -40,10 +38,10 @@ pip install -r requirements. txt
 
 ### Instale as bibliotecas:
 
-npm install 
+	npm install 
 
 ### Iniciando Aplicação (Frontend)
 
 >Acesse mstarsupply/frontend
 
-npm start 
+	npm start 
